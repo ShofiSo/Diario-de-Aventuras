@@ -45,7 +45,7 @@ public class DiarioAven {
         int opcion;
 
         do {
-            System.out.println("\n--- Diario de Aventuras ---");
+            System.out.println("--- Diario de Aventuras ---");
             System.out.println("1. Registrar nueva misión");
             System.out.println("2. Eliminar última misión fallida");
             System.out.println("3. Mostrar todas las misiones");
